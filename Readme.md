@@ -1,8 +1,7 @@
-# GYM  Management System Project - Code Camp BD
 ### GYM  Management System Project Using PHP and MySQL
 
 
-How to run the GYM  Management System Project Using PHP and MySQL (Code Camp BD - GYM  Management System ) Project
+How to run the GYM  Management System Project Using PHP and MySQL (GYM  Management System ) Project
 
 1. Download the GYM  Management System Project zip file
 
@@ -12,9 +11,9 @@ How to run the GYM  Management System Project Using PHP and MySQL (Code Camp BD 
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with name: `gym_codecampbd`
+5. Create a database with name: `gymDb`
 
-6. Import `gym_codecampbd.sql` file(given inside the zip package in SQL file folder)
+6. Import `gymDb.sql` file(given inside the zip package in SQL file folder)
 
 7. Go to Project File - > `http://localhost/"Your_Project_Name"`
 
@@ -22,7 +21,7 @@ How to run the GYM  Management System Project Using PHP and MySQL (Code Camp BD 
 
 
 ### Database Name
-- `ccbd_medipos`
+- `gymDb`
 
 
 ### Preview
